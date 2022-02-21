@@ -1,1 +1,2 @@
-this is my first repo
+head(iris,30)
+plot(iris[,-5])
